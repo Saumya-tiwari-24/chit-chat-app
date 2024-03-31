@@ -56,7 +56,7 @@ Following are the important fetures of App :
 
 ## Hosted Website URL
 
-<h3 > https://chit-chat-app.onrender.com/</h3>
+<h3 >https://chit-chat-app-nm1g.onrender.com</h3>
 
 <br><br>
-© 2024 Saumil Tiwari
+© 2024 Saumya Tiwari
